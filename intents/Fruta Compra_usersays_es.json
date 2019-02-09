@@ -1,0 +1,56 @@
+[
+  {
+    "id": "01a69101-7077-49dd-878c-7d06dfa02d78",
+    "data": [
+      {
+        "text": "dos",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sandias",
+        "alias": "Fruta",
+        "meta": "@Fruta",
+        "userDefined": false
+      },
+      {
+        "text": " por favor.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549676295
+  },
+  {
+    "id": "799f9acd-4537-4792-897a-e5ebde6a6d75",
+    "data": [
+      {
+        "text": "Quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "manzana",
+        "alias": "Fruta",
+        "meta": "@Fruta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549649378
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "value": "manzana",
+    "synonyms": [
+      "manzana"
+    ]
+  },
+  {
+    "value": "pera",
+    "synonyms": [
+      "pera"
+    ]
+  },
+  {
+    "value": "papaya",
+    "synonyms": [
+      "papaya"
+    ]
+  },
+  {
+    "value": "mandarina",
+    "synonyms": [
+      "mandarina"
+    ]
+  },
+  {
+    "value": "naranja",
+    "synonyms": [
+      "naranja"
+    ]
+  },
+  {
+    "value": "sandía",
+    "synonyms": [
+      "sandia"
+    ]
+  }
+]
