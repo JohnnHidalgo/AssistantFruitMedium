@@ -9,8 +9,8 @@ const functions = require('firebase-functions');
 // Instancie el cliente de Dialogflow.
 const app = dialogflow({debug: true});
 
-// Handle the Dialogflow intent named 'favorite color'.
-// La intención recoge un parámetro llamado 'Fruta'.
+// Mandar la dirección dspecífica del intento 'Fruta Compra'.
+// La intención recoge el parámetro llamado 'Fruta'.
 app.intent('Fruta Compra', (conv, {Fruta}) => {
     const presio = Fruta.length;
     // Responde con el presio y finaliza la conversación.
