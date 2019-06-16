@@ -1,0 +1,40 @@
+[
+  {
+    "id": "310b68f6-7df5-4c64-9f68-3ea6985dee96",
+    "data": [
+      {
+        "text": "Quiero una ",
+        "userDefined": false
+      },
+      {
+        "text": "manzana",
+        "alias": "Fruta",
+        "meta": "@Fruta",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "48519458-9f3a-47f4-9ad8-660369e2f6ee",
+    "data": [
+      {
+        "text": "dos ",
+        "userDefined": false
+      },
+      {
+        "text": "sandias",
+        "alias": "Fruta",
+        "meta": "@Fruta",
+        "userDefined": false
+      },
+      {
+        "text": " por favor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

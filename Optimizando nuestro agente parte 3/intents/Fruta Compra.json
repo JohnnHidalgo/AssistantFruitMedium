@@ -1,0 +1,38 @@
+{
+  "id": "39923bbe-6c3b-4c96-b681-ef3cd879b98f",
+  "name": "Fruta Compra",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ff9bd473-56e6-47b8-8e8c-ee9dd10f8995",
+          "required": false,
+          "dataType": "@Fruta",
+          "name": "Fruta",
+          "value": "$Fruta",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549717458,
+  "fallbackIntent": false,
+  "events": []
+}
